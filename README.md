@@ -1,8 +1,8 @@
 ## Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas no SENAI Gaspar Ricardo Júnior
-💻 Focado em progrmação (front-end e back-end)
-🔬 Participo de um projeto de iniciação científica
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no SENAI Gaspar Ricardo Júnior <br>
+💻 Focado em progrmação (front-end e back-end) <br>
+🔬 Participo de um projeto de iniciação científica <br>
 
 
 📫 Contato: [LinkedIn](https://www.linkedin.com/in/pietro-santos-609a11315/)
